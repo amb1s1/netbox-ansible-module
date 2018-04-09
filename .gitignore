@@ -1,3 +1,4 @@
 group_vars/all.yaml
 test.yaml
 *.retry
+.ropeproject
